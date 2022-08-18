@@ -1,0 +1,16 @@
+.App {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Segoe UI';
+} 
+
+input{
+  margin-top:20px;
+  width:300px;
+  height:22px;
+  border-radius: 10px;
+  font-size:16px;
+  padding-left: 10px;
+}
